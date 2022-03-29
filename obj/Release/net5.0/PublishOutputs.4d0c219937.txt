@@ -1,0 +1,11 @@
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-13\weathertest\bin\Release\net5.0\publish\WeatherTest.exe
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-13\weathertest\bin\Release\net5.0\publish\appsettings.Development.json
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-13\weathertest\bin\Release\net5.0\publish\appsettings.json
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-13\weathertest\bin\Release\net5.0\publish\WeatherTest.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-13\weathertest\bin\Release\net5.0\publish\WeatherTest.deps.json
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-13\weathertest\bin\Release\net5.0\publish\WeatherTest.runtimeconfig.json
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-13\weathertest\bin\Release\net5.0\publish\WeatherTest.pdb
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-13\weathertest\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-13\weathertest\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-13\weathertest\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ilham\Kerja\Full Stack - OCBC NISP\latihan\c#\sesi-13\weathertest\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
