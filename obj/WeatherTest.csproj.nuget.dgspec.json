@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ilham\\Kerja\\Full Stack - OCBC NISP\\latihan\\c#\\sesi-13\\weathertest\\WeatherTest.csproj": {}
+    "D:\\ilham\\Kerja\\Full Stack - OCBC NISP\\latihan\\c#\\sesi-13\\WeatherTest\\WeatherTest.csproj": {}
   },
   "projects": {
-    "D:\\ilham\\Kerja\\Full Stack - OCBC NISP\\latihan\\c#\\sesi-13\\weathertest\\WeatherTest.csproj": {
+    "D:\\ilham\\Kerja\\Full Stack - OCBC NISP\\latihan\\c#\\sesi-13\\WeatherTest\\WeatherTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ilham\\Kerja\\Full Stack - OCBC NISP\\latihan\\c#\\sesi-13\\weathertest\\WeatherTest.csproj",
+        "projectUniqueName": "D:\\ilham\\Kerja\\Full Stack - OCBC NISP\\latihan\\c#\\sesi-13\\WeatherTest\\WeatherTest.csproj",
         "projectName": "WeatherTest",
-        "projectPath": "D:\\ilham\\Kerja\\Full Stack - OCBC NISP\\latihan\\c#\\sesi-13\\weathertest\\WeatherTest.csproj",
+        "projectPath": "D:\\ilham\\Kerja\\Full Stack - OCBC NISP\\latihan\\c#\\sesi-13\\WeatherTest\\WeatherTest.csproj",
         "packagesPath": "C:\\Users\\apeloeza\\.nuget\\packages\\",
-        "outputPath": "D:\\ilham\\Kerja\\Full Stack - OCBC NISP\\latihan\\c#\\sesi-13\\weathertest\\obj\\",
+        "outputPath": "D:\\ilham\\Kerja\\Full Stack - OCBC NISP\\latihan\\c#\\sesi-13\\WeatherTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\apeloeza\\AppData\\Roaming\\NuGet\\NuGet.Config",
